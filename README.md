@@ -4,7 +4,7 @@ List of dependencies.json compatible components
 |repository|
 |:-|
 |[LegacyZip](https://github.com/miyako/LegacyZip)|
-|[calendar-jp](https://github.com/miyako/calendar-jp)|
+|[CalendarJp](https://github.com/miyako/CalendarJp)|
 |[php](https://github.com/miyako/php)|
 |[pdfcpu](https://github.com/miyako/pdfcpu)|
 |[UUID](https://github.com/miyako/UUID)|
