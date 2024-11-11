@@ -3,7 +3,7 @@ List of dependencies.json compatible components
 
 |repository|
 |:-|
-|[FFmpeg](https://github.com/miyako/FFmpeg)|
+|[ffmpeg](https://github.com/miyako/ffmpeg)|
 |[LegacyZip](https://github.com/miyako/LegacyZip)|
 |[CalendarJp](https://github.com/miyako/CalendarJp)|
 |[php](https://github.com/miyako/php)|
