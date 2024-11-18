@@ -8,5 +8,6 @@ List of dependencies.json compatible components
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Go|
 |[CalendarJp](https://github.com/miyako/CalendarJp)||
 |[php](https://github.com/miyako/php)|PHP|
+|[buildapp](https://github.com/miyako/buildapp)||
 |[pdfcpu](https://github.com/miyako/pdfcpu)|pdfcpu (Go)|
 |[UUID](https://github.com/miyako/UUID)|Go|
