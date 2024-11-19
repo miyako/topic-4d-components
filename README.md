@@ -3,11 +3,12 @@ List of dependencies.json compatible components
 
 |repository|included external program|
 |:-|:-|
-|[rclone](https://github.com/miyako/rclone)|Rclone (Go)|
+|[buildapp](https://github.com/miyako/buildapp)||
+|[curl](https://github.com/miyako/curl)|curl|
+|[CalendarJp](https://github.com/miyako/CalendarJp)||
 |[ffmpeg](https://github.com/miyako/ffmpeg)|FFmpeg|
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Go|
-|[CalendarJp](https://github.com/miyako/CalendarJp)||
 |[php](https://github.com/miyako/php)|PHP|
-|[buildapp](https://github.com/miyako/buildapp)||
 |[pdfcpu](https://github.com/miyako/pdfcpu)|pdfcpu (Go)|
+|[rclone](https://github.com/miyako/rclone)|Rclone (Go)|
 |[UUID](https://github.com/miyako/UUID)|Go|
