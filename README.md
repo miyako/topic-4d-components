@@ -9,6 +9,7 @@ List of dependencies.json compatible components
 |[ffmpeg](https://github.com/miyako/ffmpeg)|FFmpeg||
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Go|Windows XP compatible "zip"|
 |[loc](https://github.com/miyako/loc)||count lines of code|
+|[OpenSSL](https://github.com/miyako/OpenSSL)|OpenSSL||
 |[php](https://github.com/miyako/php)|PHP||
 |[pdfcpu](https://github.com/miyako/pdfcpu)|pdfcpu (Go)||
 |[rclone](https://github.com/miyako/rclone)|Rclone (Go)||
