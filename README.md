@@ -4,6 +4,7 @@ List of dependencies.json compatible components
 |repository|included external program|profile|
 |:-|:-|:-|
 |[buildapp](https://github.com/miyako/buildapp)|||
+|[cpdf](https://github.com/miyako/cpdf)|cpdf||
 |[curl](https://github.com/miyako/curl)|curl||
 |[CalendarJp](https://github.com/miyako/CalendarJp)||"gggg" date format|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|FFmpeg||
