@@ -16,3 +16,4 @@ List of dependencies.json compatible components
 |[pdfcpu](https://github.com/miyako/pdfcpu)|pdfcpu (Go)||
 |[rclone](https://github.com/miyako/rclone)|Rclone (Go)||
 |[UUID](https://github.com/miyako/UUID)|Go|generate UUID other than v4|
+|[xmlsec](https://github.com/miyako/xmlsec)|xmlsec||
