@@ -10,7 +10,7 @@ List of dependencies.json compatible components
 |[ffmpeg](https://github.com/miyako/ffmpeg)|FFmpeg|||
 |[hpki](https://github.com/miyako/hpki)|hpki|HPKI,JPKI||
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Go|Windows XP compatible "zip"||
-|[libxml2](https://github.com/miyako/libxml2)|xmllint, xmlcatalog|||
+|[libxml2](https://github.com/miyako/libxml2)|xmllint, xmlcatalog||☕️|
 |[loc](https://github.com/miyako/loc)||count lines of code||
 |[norm](https://github.com/miyako/norm)|Go|NFC/NFD/NFKC/NFKD|☕️|
 |[OpenSSL](https://github.com/miyako/OpenSSL)|OpenSSL||☕️|
