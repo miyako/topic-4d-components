@@ -16,6 +16,6 @@ List of dependencies.json compatible components
 |[OpenSSL](https://github.com/miyako/OpenSSL)|OpenSSL||☕️|
 |[php](https://github.com/miyako/php)|PHP|||
 |[pdfcpu](https://github.com/miyako/pdfcpu)|pdfcpu (Go)|||
-|[rclone](https://github.com/miyako/rclone)|Rclone (Go)|||
+|[rclone](https://github.com/miyako/rclone)|Rclone (Go)||☕️|
 |[UUID](https://github.com/miyako/UUID)|Go|generate UUID other than v4|☕️|
 |[xmlsec](https://github.com/miyako/xmlsec)|xmlsec||☕️|
