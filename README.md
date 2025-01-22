@@ -7,6 +7,7 @@ List of dependencies.json compatible components
 |[cpdf](https://github.com/miyako/cpdf)|cpdf|||
 |[curl](https://github.com/miyako/curl)|curl|||
 |[CalendarJp](https://github.com/miyako/CalendarJp)||"gggg" date format||
+|[DCT](https://github.com/miyako/DCT)||Data Change Tracking|![version](https://img.shields.io/badge/version-20%20R3%2B-E23089)|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|FFmpeg|||
 |[hpki](https://github.com/miyako/hpki)|hpki|HPKI,JPKI||
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Go|Windows XP compatible "zip"||
