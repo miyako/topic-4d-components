@@ -3,6 +3,7 @@ List of dependencies.json compatible components
 
 |repository|included external program|profile||
 |:-|:-|:-|:-:|
+|[acme_component](https://github.com/miyako/acme_component)|OpenSSL|Forked from [blegay/acme_component](https://github.com/blegay/acme_component)||
 |[buildapp](https://github.com/miyako/buildapp)||||
 |[CalendarJp](https://github.com/miyako/CalendarJp)||"gggg" date format|![version](https://img.shields.io/badge/version-20%20R6%2B-E23089)|
 |[cpdf](https://github.com/miyako/cpdf)|cpdf|||
