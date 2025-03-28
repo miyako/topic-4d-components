@@ -8,6 +8,7 @@ List of dependencies.json compatible components
 |[CalendarJp](https://github.com/miyako/CalendarJp)|"gggg" date format|![version](https://img.shields.io/badge/version-20%20R6%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/CalendarJp/total)|
 |[cpdf](https://github.com/miyako/cpdf)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/cpdf/total)|
 |[curl](https://github.com/miyako/curl)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/curl/total)|
+|[DataAnalyzer](https://github.com/miyako/DataAnalyzer)|DataAnalyzer by JPR|![version](https://img.shields.io/badge/version-20%20R7%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/DataAnalyzer/total)|
 |[DCT](https://github.com/miyako/DCT)|Data Change Tracking|![version](https://img.shields.io/badge/version-20%20R3%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/DCT/total)|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/ffmpeg/total)|
 |[hpki](https://github.com/miyako/hpki)|HPKI,JPKI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/hpki/total)|
