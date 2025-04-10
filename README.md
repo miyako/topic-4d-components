@@ -11,6 +11,7 @@ List of dependencies.json compatible components
 |[DataAnalyzer](https://github.com/miyako/DataAnalyzer)|DataAnalyzer by JPR|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/DataAnalyzer/total)|
 |[DebugLogAnalyzer](https://github.com/miyako/DebugLogAnalyzer)|DebugLogAnalyzer|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/DebugLogAnalyzer/total)|
 |[DCT](https://github.com/miyako/DCT)|Data Change Tracking|![version](https://img.shields.io/badge/version-20%20R3%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/DCT/total)|
+|[EditorTheme](https://github.com/miyako/EditorTheme)|Export Editor Theme|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/EditorTheme/total)|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/ffmpeg/total)|
 |[hpki](https://github.com/miyako/hpki)|HPKI,JPKI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/hpki/total)|
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Windows XP compatible "zip"|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/LegacyZip/total)|
