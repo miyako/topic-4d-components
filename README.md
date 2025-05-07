@@ -14,6 +14,7 @@ List of dependencies.json compatible components
 |[EditorTheme](https://github.com/miyako/EditorTheme)|Export Editor Theme|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/EditorTheme/total)|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/ffmpeg/total)|
 |[hpki](https://github.com/miyako/hpki)|HPKI,JPKI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/hpki/total)|
+|[Jagger](https://github.com/miyako/Jagger)|形態素解析器|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/Jagger/total)|
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Windows XP compatible "zip"|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/LegacyZip/total)|
 |[libxml2](https://github.com/miyako/libxml2)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/libxml2/total)|
 |[loc](https://github.com/miyako/loc)|count lines of code|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/loc/total)|
