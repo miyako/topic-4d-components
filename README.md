@@ -21,7 +21,7 @@ List of dependencies.json compatible components
 |[norm](https://github.com/miyako/norm)|NFC/NFD/NFKC/NFKD|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/norm/total)|
 |[OpenSSL](https://github.com/miyako/OpenSSL)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/OpenSSL/total)|
 |[pdfcpu](https://github.com/miyako/pdfcpu)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/pdfcpu/total)|
-|[php](https://github.com/miyako/php)|CLI/CGI|![version](https://img.shields.io/badge/version-20%20R5%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/php/total)|
+|[php](https://github.com/miyako/php)|CLI/CGI|![version](https://img.shields.io/badge/version-20%2B-E23089)<br />![version](https://img.shields.io/badge/version-20%20R5%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/php/total)|
 |[rclone](https://github.com/miyako/rclone)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/rclone/total)|
 |[svgarea](https://github.com/miyako/svgarea)|GUI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/svgarea/total)|
 |[UUID](https://github.com/miyako/UUID)|generate UUID other than v4|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UUID/total)|
