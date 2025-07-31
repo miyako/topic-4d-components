@@ -19,6 +19,7 @@ List of dependencies.json compatible components
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Windows XP compatible "zip"|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/LegacyZip/total)|
 |[libxml2](https://github.com/miyako/libxml2)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/libxml2/total)|
 |[loc](https://github.com/miyako/loc)|count lines of code|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/loc/total)|
+|[mosquitto](https://github.com/miyako/mosquitto)|mosquitto|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/mosquitto/total)|
 |[norm](https://github.com/miyako/norm)|NFC/NFD/NFKC/NFKD|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/norm/total)|
 |[OpenSSL](https://github.com/miyako/OpenSSL)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/OpenSSL/total)|
 |[pdfcpu](https://github.com/miyako/pdfcpu)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/pdfcpu/total)|
