@@ -32,3 +32,4 @@ List of dependencies.json compatible components
 |[UTest](https://github.com/miyako/UTest)|unit test|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UTest/total)|
 |[UUID](https://github.com/miyako/UUID)|generate UUID other than v4|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UUID/total)|
 |[xmlsec](https://github.com/miyako/xmlsec)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/xmlsec/total)|
+|[xlsx-editor](https://github.com/miyako/xlsx-editor)|tool to set spreadsheet cells values|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/xlsx-editor/total)|
