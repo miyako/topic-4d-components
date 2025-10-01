@@ -30,6 +30,7 @@ List of dependencies.json compatible components
 |[rabbitmq](https://github.com/miyako/rabbitmq)|rabbitmq|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/rabbitmq/total)|
 |[rclone](https://github.com/miyako/rclone)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/rclone/total)|
 |[svgarea](https://github.com/miyako/svgarea)|GUI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/svgarea/total)|
+|[text-splitter](https://github.com/miyako/text-splitter)|chunking|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/text-splitter/total)|
 |[UTest](https://github.com/miyako/UTest)|unit test|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UTest/total)|
 |[UUID](https://github.com/miyako/UUID)|generate UUID other than v4|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UUID/total)|
 |[xmlsec](https://github.com/miyako/xmlsec)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/xmlsec/total)|
