@@ -17,6 +17,7 @@ List of dependencies.json compatible components
 |[DCT](https://github.com/miyako/DCT)|Data Change Tracking|![version](https://img.shields.io/badge/version-20%2B-E23089)<br />![version](https://img.shields.io/badge/version-20%20R3%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/DCT/total)|
 |[EditorTheme](https://github.com/miyako/EditorTheme)|Export Editor Theme|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/EditorTheme/total)|
 |[extract](https://github.com/miyako/extract)|tool to extract text from major document formats|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/extract/total)|
+|[finalfusion](https://github.com/miyako/finalfusion)|Use finalfusion from 4D|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/finalfusion/total)|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/ffmpeg/total)|
 |[hpki](https://github.com/miyako/hpki)|HPKI,JPKI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/hpki/total)|
 |[Jagger](https://github.com/miyako/Jagger)|形態素解析器|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/Jagger/total)|
