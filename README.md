@@ -29,6 +29,7 @@ List of dependencies.json compatible components
 |[lx-rs](https://github.com/miyako/lx-rs)|tool to extract information from potentially large text|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/lx-rs/total)|
 |[mermaid](https://github.com/miyako/mermaid)|Tool to convert mermaid markdown to SVG|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/mermaid/total)|
 |[mosquitto](https://github.com/miyako/mosquitto)|mosquitto|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/mosquitto/total)|
+|[NET](https://github.com/miyako/NET)|NET_Ping replacement|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/NET/total)|
 |[norm](https://github.com/miyako/norm)|NFC/NFD/NFKC/NFKD|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/norm/total)|
 |[OpenSSL](https://github.com/miyako/OpenSSL)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/OpenSSL/total)|
 |[overlap-chunk](https://github.com/miyako/overlap-chunk)|chunking|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/overlap-chunk/total)|
