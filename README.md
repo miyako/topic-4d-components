@@ -20,6 +20,7 @@ List of dependencies.json compatible components
 |[extract](https://github.com/miyako/extract)|tool to extract text from major document formats|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/extract/total)|
 |[finalfusion](https://github.com/miyako/finalfusion)|Use finalfusion from 4D|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/finalfusion/total)|
 |[ffmpeg](https://github.com/miyako/ffmpeg)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/ffmpeg/total)|
+|[grex](https://github.com/miyako/ffmpeg)|Tool to generate regex from examples|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/grex/total)|
 |[hpki](https://github.com/miyako/hpki)|HPKI,JPKI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/hpki/total)|
 |[Jagger](https://github.com/miyako/Jagger)|形態素解析器|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/Jagger/total)|
 |[llamafile](https://github.com/miyako/llamafile)|Local inference engine|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/llamafile/total)|
