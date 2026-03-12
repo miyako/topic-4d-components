@@ -24,7 +24,6 @@ List of dependencies.json compatible components
 |[hpki](https://github.com/miyako/hpki)|HPKI,JPKI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/hpki/total)|
 |[Jagger](https://github.com/miyako/Jagger)|形態素解析器|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/Jagger/total)|
 |[llamafile](https://github.com/miyako/llamafile)|Local inference engine|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/llamafile/total)|
-|[llama-cpp](https://github.com/miyako/llama-cpp)|Local inference engine|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/llama-cpp/total)|
 |[LegacyZip](https://github.com/miyako/LegacyZip)|Windows XP compatible "zip"|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/LegacyZip/total)|
 |[libxml2](https://github.com/miyako/libxml2)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/libxml2/total)|
 |[LocalAI](https://github.com/miyako/LocalAI)|Local inference engine|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/LocalAI/total)|
@@ -41,7 +40,6 @@ List of dependencies.json compatible components
 |[QuickDrawConverter](https://github.com/miyako/QuickDrawConverter)|convert PICT to PDF|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/QuickDrawConverter/total)|
 |[rclone](https://github.com/miyako/rclone)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/rclone/total)|
 |[svgarea](https://github.com/miyako/svgarea)|GUI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/svgarea/total)|
-|[text-splitter](https://github.com/miyako/text-splitter)|chunking|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/text-splitter/total)|
 |[UTest](https://github.com/miyako/UTest)|unit test|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UTest/total)|
 |[UUID](https://github.com/miyako/UUID)|generate UUID other than v4|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/UUID/total)|
 |[xmlsec](https://github.com/miyako/xmlsec)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/xmlsec/total)|
