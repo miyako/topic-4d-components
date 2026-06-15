@@ -9,7 +9,6 @@ List of dependencies.json compatible components
 |[CalendarJp](https://github.com/miyako/CalendarJp)|"gggg" date format|![version](https://img.shields.io/badge/version-20%2B-E23089)<br />![version](https://img.shields.io/badge/version-21%2B-3B69E9)|![downloads](https://img.shields.io/github/downloads/miyako/CalendarJp/total)|
 |[cooperative](https://github.com/miyako/cooperative)|Execute thread unsafe commands via a worker|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/cooperative/total)|
 |[cpdf](https://github.com/miyako/cpdf)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/cpdf/total)|
-|[curl](https://github.com/miyako/curl)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/curl/total)|
 |[Cron](https://github.com/miyako/Cron)|Forked from [KoichiHaradaEndor/Cron](https://github.com/KoichiHaradaEndor/Cron)|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/Cron/total)|
 |[CSV](https://github.com/miyako/CSV)|Component to export records in CSV|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/CSV/total)|
 |[D2](https://github.com/miyako/D2)|Use D2 from 4D|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/D2/total)|
