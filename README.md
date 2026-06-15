@@ -34,7 +34,6 @@ List of dependencies.json compatible components
 |[norm](https://github.com/miyako/norm)|NFC/NFD/NFKC/NFKD|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/norm/total)|
 |[overlap-chunk](https://github.com/miyako/overlap-chunk)|chunking|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/overlap-chunk/total)|
 |[pdfcpu](https://github.com/miyako/pdfcpu)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/pdfcpu/total)|
-|[php](https://github.com/miyako/php)|CLI/CGI|![version](https://img.shields.io/badge/version-20%2B-E23089)<br />![version](https://img.shields.io/badge/version-21%2B-3B69E9)|![downloads](https://img.shields.io/github/downloads/miyako/php/total)|
 |[rabbitmq](https://github.com/miyako/rabbitmq)|rabbitmq|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/rabbitmq/total)|
 |[QuickDrawConverter](https://github.com/miyako/QuickDrawConverter)|convert PICT to PDF|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/QuickDrawConverter/total)|
 |[rclone](https://github.com/miyako/rclone)|CLI|![version](https://img.shields.io/badge/version-20%2B-E23089)|![downloads](https://img.shields.io/github/downloads/miyako/rclone/total)|
